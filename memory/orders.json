@@ -1,0 +1,16 @@
+[
+    {
+        "order_timestamp": 0,
+        "delivery_address": "Laptop",
+        "products": [
+            {
+                "prod_id":0,
+                "quantity":5
+            },
+            {
+                "prod_id":1,
+                "quantity":7
+            }
+        ]
+    }
+]
